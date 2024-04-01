@@ -13,6 +13,8 @@ export const Modal = () => {
           <p>The next page looks amazing. Hope you want to go there!</p>
         </div>
         <div className="footer"></div>
+        <button>Cancel</button>
+        <button>Continue</button>
 
 
 
