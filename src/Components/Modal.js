@@ -12,6 +12,8 @@ export const Modal = () => {
         <div className="body">
           <p>The next page looks amazing. Hope you want to go there!</p>
         </div>
+        <div className="footer"></div>
+
 
 
   </div>
